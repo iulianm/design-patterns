@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4297f7e-3af9-4522-bccc-b305fbd9331a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/design/principles/lsp/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/design/principles/isp/Demo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,70 +14,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/design/principles/lsp/Demo.java">
+        <entry file="file://$PROJECT_DIR$/src/com/design/principles/isp/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
+            <state relative-caret-position="888">
+              <caret line="82" column="35" lean-forward="true" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
               <folding>
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
-                <element signature="e#443#444#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#507#508#0" expanded="true" />
-                <element signature="e#536#537#0" expanded="true" />
-                <element signature="e#577#578#0" expanded="true" />
-                <element signature="e#613#614#0" expanded="true" />
-                <element signature="e#628#629#0" expanded="true" />
-                <element signature="e#664#665#0" expanded="true" />
-                <element signature="e#878#879#0" expanded="true" />
-                <element signature="e#916#917#0" expanded="true" />
-                <element signature="e#933#934#0" expanded="true" />
-                <element signature="e#969#970#0" expanded="true" />
-                <element signature="e#1378#1379#0" expanded="true" />
-                <element signature="e#1415#1416#0" expanded="true" />
-                <element signature="e#1483#1484#0" expanded="true" />
-                <element signature="e#1520#1521#0" expanded="true" />
+                <element signature="e#1503#1504#0" expanded="true" />
+                <element signature="e#1562#1563#0" expanded="true" />
+                <element signature="e#1584#1585#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Consumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="41" column="24" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Collection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
-              <caret line="579" column="20" lean-forward="true" selection-start-line="579" selection-start-column="12" selection-end-line="579" selection-end-column="20" />
-              <folding>
-                <element signature="e#26957#26958#0" expanded="true" />
-                <element signature="e#27022#27023#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/stream/Stream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="497" column="19" lean-forward="true" selection-start-line="497" selection-start-column="19" selection-end-line="497" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Predicate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -102,6 +46,7 @@
         <option value="$PROJECT_DIR$/src/com/design/principles/srp/Demo.java" />
         <option value="$PROJECT_DIR$/src/com/design/principles/ocp/Demo.java" />
         <option value="$PROJECT_DIR$/src/com/design/principles/lsp/Demo.java" />
+        <option value="$PROJECT_DIR$/src/com/design/principles/isp/Demo.java" />
       </list>
     </option>
   </component>
@@ -133,13 +78,6 @@
               <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="principles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="principles" type="462c0819:PsiDirectoryNode" />
-              <item name="lsp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -242,18 +180,18 @@
       <option name="presentableId" value="Default" />
       <updated>1544506952026</updated>
       <workItem from="1544506955980" duration="2114000" />
-      <workItem from="1544509254989" duration="13775000" />
+      <workItem from="1544509254989" duration="15705000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15889000" />
+    <option name="totallyTimeSpent" value="17819000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1719" y="0" width="1726" height="1410" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25487804" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25487804" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -317,13 +255,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Predicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="606">
@@ -372,8 +303,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/design/principles/lsp/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
+        <state relative-caret-position="2208">
+          <caret line="92" column="37" lean-forward="true" selection-start-line="92" selection-start-column="37" selection-end-line="93" selection-end-column="18" />
           <folding>
             <element signature="e#376#377#0" expanded="true" />
             <element signature="e#404#405#0" expanded="true" />
@@ -393,6 +324,25 @@
             <element signature="e#1415#1416#0" expanded="true" />
             <element signature="e#1483#1484#0" expanded="true" />
             <element signature="e#1520#1521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/design/principles/isp/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="82" column="35" lean-forward="true" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
+          <folding>
+            <element signature="e#1503#1504#0" expanded="true" />
+            <element signature="e#1562#1563#0" expanded="true" />
+            <element signature="e#1584#1585#0" expanded="true" />
           </folding>
         </state>
       </provider>
